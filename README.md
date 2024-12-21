@@ -1,4 +1,5 @@
 # Reading List of LLM-based Data Science Agents.
+This is the recommended reading list for the paper [A Survey on Large Language Model-based Agents for Statistics and Data Science](https://www.arxiv.org/abs/2412.14222)
 ![CleanShot 2024-12-17 at 17.38.45.png](https://s2.loli.net/2024/12/17/SukRIPfJtTxApnq.png)
 
 ## **Data Science Agent**
