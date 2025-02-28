@@ -63,9 +63,9 @@
 }
 
  @article{sun2024lambda,
-          title={LAMBDA: A Large Model Based Data Agent},
-          author={Sun, Maojun and Han, Ruijian and Jiang, Binyan and Qi, Houduo and Sun, Defeng and Yuan, Yancheng and Huang, Jian},
-          journal={arXiv preprint arXiv:2407.17535},
-          year={2024}
+  title={LAMBDA: A Large Model Based Data Agent},
+  author={Sun, Maojun and Han, Ruijian and Jiang, Binyan and Qi, Houduo and Sun, Defeng and Yuan, Yancheng and Huang, Jian},
+  journal={arXiv preprint arXiv:2407.17535},
+  year={2024}
 }
 ```
